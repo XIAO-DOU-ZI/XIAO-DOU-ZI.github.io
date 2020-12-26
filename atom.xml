@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiao-dou-zi.github.io</id>
     <title>豆子の网站</title>
-    <updated>2020-12-26T12:54:48.715Z</updated>
+    <updated>2020-12-26T12:55:10.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiao-dou-zi.github.io"/>
     <link rel="self" href="https://xiao-dou-zi.github.io/atom.xml"/>
@@ -10,4 +10,15 @@
     <logo>https://xiao-dou-zi.github.io/images/avatar.png</logo>
     <icon>https://xiao-dou-zi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 豆子の网站</rights>
+    <entry>
+        <title type="html"><![CDATA[这是豆子的第一篇文章]]></title>
+        <id>https://xiao-dou-zi.github.io/post/zhe-shi-dou-zi-de-di-yi-pian-wen-zhang/</id>
+        <link href="https://xiao-dou-zi.github.io/post/zhe-shi-dou-zi-de-di-yi-pian-wen-zhang/">
+        </link>
+        <updated>2020-12-26T12:29:20.000Z</updated>
+        <content type="html"><![CDATA[<p>这个网站干啥的，别问我，我也不知道，反正有用就是了<br>
+对了，豆子的qq群：<br>
+https://jq.qq.com/?_wv=1027&amp;k=JYup2mMy</p>
+]]></content>
+    </entry>
 </feed>
