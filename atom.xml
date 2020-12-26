@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiao-dou-zi.github.io</id>
-    <title></title>
-    <updated>2020-12-26T12:47:56.232Z</updated>
+    <title>豆子の网站</title>
+    <updated>2020-12-26T12:49:14.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiao-dou-zi.github.io"/>
     <link rel="self" href="https://xiao-dou-zi.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://xiao-dou-zi.github.io/images/avatar.png</logo>
     <icon>https://xiao-dou-zi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, </rights>
+    <rights>All rights reserved 2020, 豆子の网站</rights>
     <entry>
         <title type="html"><![CDATA[这是豆子的第一篇文章]]></title>
         <id>https://xiao-dou-zi.github.io/post/zhe-shi-dou-zi-de-di-yi-pian-wen-zhang/</id>
