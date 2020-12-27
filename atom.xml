@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiao-dou-zi.github.io</id>
     <title>豆子の网站</title>
-    <updated>2020-12-27T07:41:26.887Z</updated>
+    <updated>2020-12-27T07:54:19.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiao-dou-zi.github.io"/>
     <link rel="self" href="https://xiao-dou-zi.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://xiao-dou-zi.github.io/images/avatar.png</logo>
     <icon>https://xiao-dou-zi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 豆子の网站</rights>
+    <entry>
+        <title type="html"><![CDATA[免费谷歌账号更新]]></title>
+        <id>https://xiao-dou-zi.github.io/post/mian-fei-gu-ge-zhang-hao-geng-xin/</id>
+        <link href="https://xiao-dou-zi.github.io/post/mian-fei-gu-ge-zhang-hao-geng-xin/">
+        </link>
+        <updated>2020-12-27T07:42:52.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12.26日微信群规更新速报]]></title>
         <id>https://xiao-dou-zi.github.io/post/1226-ri-wei-xin-qun-gui-geng-xin-su-bao/</id>
